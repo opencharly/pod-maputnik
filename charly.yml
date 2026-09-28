@@ -1,7 +1,5 @@
-version: 2026.232.0520
 maputnik:
     candy:
-        version: 2026.144.1443
         description: |
             Visual MapLibre GL style editor (Maputnik SPA) built from upstream source and served as a static dist over HTTP on port 8000
             Clones the upstream maplibre/maputnik repo at image-build time, runs
