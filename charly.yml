@@ -14,7 +14,7 @@ maputnik:
             toolchain, the running service, the HTTP 200 the editor returns, and
             the absence of the /maputnik/ asset prefix in the served HTML.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.235.2056'
+            - '@github.com/opencharly/layer-supervisord:v2026.271.1817'
         distro:
             arch:
                 package:
